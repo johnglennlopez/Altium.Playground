@@ -1,0 +1,36 @@
+Added Component: Designator=C1(RB7.6-15)
+Added Component: Designator=D1(LED-1)
+Added Component: Designator=P1(HDR1X2)
+Added Component: Designator=R1(AXIAL-0.3)
+Added Component: Designator=R2(AXIAL-0.3)
+Added Component: Designator=R3(AXIAL-0.3)
+Added Component: Designator=U1(LM555DIP)
+Added Pin To Net: NetName=CONT Pin=U1-5
+Added Net: Name=CONT
+Added Pin To Net: NetName=DSCH Pin=R1-1
+Added Pin To Net: NetName=DSCH Pin=R3-2
+Added Pin To Net: NetName=DSCH Pin=U1-7
+Added Net: Name=DSCH
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R2-1
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=U1-3
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=THRSH Pin=C1-1
+Added Pin To Net: NetName=THRSH Pin=R3-1
+Added Pin To Net: NetName=THRSH Pin=U1-2
+Added Pin To Net: NetName=THRSH Pin=U1-6
+Added Net: Name=THRSH
+Added Pin To Net: NetName=VCC +9 Pin=P1-1
+Added Pin To Net: NetName=VCC +9 Pin=R1-2
+Added Pin To Net: NetName=VCC +9 Pin=U1-4
+Added Pin To Net: NetName=VCC +9 Pin=U1-8
+Added Net: Name=VCC +9
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1
